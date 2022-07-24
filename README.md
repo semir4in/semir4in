@@ -1,1 +1,1 @@
-![Metrics](https://github.com/semir4in/semir4in/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/semir4in?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FSeoul)
